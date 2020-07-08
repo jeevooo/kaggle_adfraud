@@ -6,6 +6,6 @@ Kaggle Data - https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection
 
 The notebook displays:
 
-EDA
-Data Mining
-Modeling
+1. EDA
+2. Data Mining
+3. Modeling
